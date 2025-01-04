@@ -1,0 +1,1 @@
+[{"amount": 7500.0, "currency": "INR", "category": "FOOD", "date": "2013-03-12"}]
